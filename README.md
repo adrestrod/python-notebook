@@ -1,4 +1,4 @@
-# python-notebook
+# Python Notebook
 
 Hola! Soy Adrián y esta es una pequeña guia que estoy creado para el lenguaje Python.
 
